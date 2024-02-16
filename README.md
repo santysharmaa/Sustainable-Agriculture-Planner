@@ -14,7 +14,7 @@ The Sustainable Agriculture Planner is a web-based tool designed to support sust
 
 ## Installation
 To run the Sustainable Agriculture Planner locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/techbire/agriculture-html.git`
+1. Clone the repository: `git clone https://github.com/santysharmaa/agriculture-html.git`
 2. Navigate to the project directory: `cd agriculture-html`
 3. Open `index.html` in your preferred web browser.
 
