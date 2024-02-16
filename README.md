@@ -11,8 +11,6 @@ The Sustainable Agriculture Planner is a web-based tool designed to support sust
 - **Case Studies:** Real-world case studies demonstrating the positive impact of sustainable practices.
 - **Join Us:** Information on how to contribute and be part of the sustainable agriculture community.
 
-## Demo
-https://techbire.github.io/agriculture-html
 
 ## Installation
 To run the Sustainable Agriculture Planner locally, follow these steps:
